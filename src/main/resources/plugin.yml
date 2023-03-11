@@ -1,0 +1,4 @@
+name: Gangs
+version: ${project.parent.version}
+main: com.hayden.gangs.Main
+api-version: 1.13
